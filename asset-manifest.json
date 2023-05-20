@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jwenwong-pages/static/css/main.073c9b0a.css",
+    "main.js": "/jwenwong-pages/static/js/main.6487fe52.js",
+    "static/js/787.fd02818c.chunk.js": "/jwenwong-pages/static/js/787.fd02818c.chunk.js",
+    "static/media/logo.svg": "/jwenwong-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jwenwong-pages/index.html",
+    "main.073c9b0a.css.map": "/jwenwong-pages/static/css/main.073c9b0a.css.map",
+    "main.6487fe52.js.map": "/jwenwong-pages/static/js/main.6487fe52.js.map",
+    "787.fd02818c.chunk.js.map": "/jwenwong-pages/static/js/787.fd02818c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6487fe52.js"
+  ]
+}
